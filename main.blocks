@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="|!CHR6WVrYgG[t61DG`Z" x="0" y="0"/><block type="device_forever" id="y@0)t31r=$P5YKpI:_?-" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id="?:w%Id.tGDe!L1/bYrG*"><mutation elseif="5" else="1"/><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="v}=i4#l:AMd/$ADs%Q`E"><field name="OP">LT</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="Hg/kMYX2:Ic}Y0BTk2zu"/></value><value name="B"><shadow type="math_number" id="DyvXSnS,ZhCpTz0LlmNs"><field name="NUM">10</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="(,fDfxYr^Y=%9R$xg?P["><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement><value name="IF1"><block type="logic_compare" id="@E+}!58*vb2`0LBP|b(F"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="|/jFG/0|,F+~}=D)a(J~"/></value><value name="B"><shadow type="math_number" id="Sy6eUj}I@P}k;d5;bBb@"><field name="NUM">20</field></shadow></value></block></value><statement name="DO1"><block type="device_show_leds" id="ds$F9Vgfzh;@?;,,.S!k"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # #
+        `</field></block></statement><value name="IF2"><block type="logic_compare" id="LyQWS^@z|a$YC*0=Z.Fw"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="zWiII18Agfc@gK!;17kv"/></value><value name="B"><shadow type="math_number" id="|TorbPQ,_S2+q@ZvpC{_"><field name="NUM">30</field></shadow></value></block></value><statement name="DO2"><block type="device_show_leds" id="c$mzuDBn;o1-G}UwdZ)M"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # #
+        `</field></block></statement><value name="IF3"><block type="logic_compare" id="![@(:?dCXo/p!6B5N-j%"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="=L{y@.1jYE#k{W%g#w?f"/></value><value name="B"><shadow type="math_number" id="Z.y|(p|8{1p*Ez(wCH9u"><field name="NUM">40</field></shadow></value></block></value><statement name="DO3"><block type="device_show_leds" id="hD`KUC=Ic?BQNR.4g5lD"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement><value name="IF4"><block type="logic_compare" id="S}rwKFIj%()%H[9FKS,C"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="$R`f4kyRB^9T3KQfNhgS"/></value><value name="B"><shadow type="math_number" id="8*Ax/9DIHq1*G@vv0zV)"><field name="NUM">50</field></shadow></value></block></value><statement name="DO4"><block type="device_show_leds" id="K.rn*^}jJ*I(/6)czC0G"><field name="LEDS">`
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement><value name="IF5"><block type="logic_compare" id="kk.0STK+M6^:Sf]C5**X"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="xSAv:HjV){jfmn@#i0fi"/></value><value name="B"><shadow type="math_number" id="awx4ZjLu$!QMZP.%(D?_"><field name="NUM">60</field></shadow></value></block></value><statement name="DO5"><block type="device_show_leds" id="v8TJ59er_hk]=|;!pEkQ"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement></block></statement></block></xml>
